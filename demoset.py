@@ -13,7 +13,7 @@ for data in hai:
 #print(hai[0])
 
 # deletion
-hai.remove(3.4)
+print("what i received",hai.remove(3.4))
 
 # update by pos is not possible in set
 

@@ -35,7 +35,7 @@ print("deletion process")
 del hi[2]
 hi.remove(12.7)
 print(hi)
-hi.pop()# it defaultly remove last item
+print("what i have deleted",hi.pop())# it defaultly remove last item
 print(hi)
 hi.pop(0)
 print(hi)

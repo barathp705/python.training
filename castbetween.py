@@ -31,7 +31,7 @@ for pos in range(len(tobedeleted)):
 
 print(hai)
 
-hai.reverse()
+print("is anything returned after reverse call",hai.reverse())
 
 print(hai)
 
